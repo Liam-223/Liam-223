@@ -1,3 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Liam-223/cat/main/cat.gif" width="400">
+  <img width="496" height="498" alt="image" src="https://github.com/user-attachments/assets/b421656c-3147-4a5e-a669-0f37e1f38d65" />
 </p>
+
